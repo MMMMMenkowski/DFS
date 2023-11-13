@@ -1,0 +1,4 @@
+
+python predict.py --input "./"
+
+
